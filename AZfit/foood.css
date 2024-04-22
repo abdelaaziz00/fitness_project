@@ -1,0 +1,189 @@
+body{
+    padding: 0%;
+    margin: 0px;
+}
+#continair1{
+    background-color:  rgb(1, 9, 62);
+    color: #ea4646;
+    width: 100%;
+    height: auto;
+    border: black solid;
+    display: flex;
+    justify-content: space-between;
+}
+#delete-button{
+  height: 100%;
+  color: #fafbf9;
+  background-color: #242d67;
+  padding: 5px;
+}
+#delete-buttonn{
+ 
+  color: #fafbf9;
+  background-color: #242d67;
+  padding: 5px;
+}
+
+
+#continair2{
+    background-color: rgb(244, 116, 84);
+    width: 100%;
+    height: auto;
+    border: rgb(239, 235, 235) 1px solid;
+}
+#continair {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto; /* Add this line */
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+
+  #food{
+    width: auto;
+    padding: 5px;
+    margin: 5px;
+  }
+  #namber{
+    width: 5%;
+    padding: 5px;
+    margin: 5px;
+    
+  }
+  #FandN{
+    display: flex;
+    justify-content: space-between;
+    background-color: #fef8f8;
+    color: #0b0b0b;
+  }
+
+
+  #content{
+    width: 90%;
+    height: auto;
+    background-color: rgb(1, 9, 62);
+    color: #ebe8e8;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto; /* Add this line */
+    margin-top: 0px;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  #N{
+    width: 100px;
+    margin: 0px;
+    padding: 0px;
+  }
+  #call{
+    margin-top: 20px;
+    
+  }
+  
+  
+.h1{
+    color: brown;
+}
+#addFoodButton {
+ justify-content: center;
+ width: 30%;
+ background-color: rgba(102, 236, 81, 0.5);
+
+}
+
+.centered-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Adjust as needed */
+}
+
+/* CSS for the button container */
+.chatgpt {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* CSS for the button */
+.addfod {
+  padding: 12px 24px;
+  font-size: 16px;
+  font-weight: bold;
+  background-color: #007bff; /* Adjust the color as needed */
+  color: #fff; /* Button text color */
+  border: none;
+  border-radius: 6px;body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+}
+
+.centered-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.chatgpt {
+    text-align: center;
+    width: auto;
+}
+
+.addfod {
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: auto;
+    justify-content: center;
+}
+
+.addfod:hover {
+    background-color: #0056b3;
+}
+
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+/* Hover effect for the button */
+.addfod:hover {
+  background-color: #0056b3; /* Adjust the hover color as needed */
+}
+
+.my-button {
+  display: inline-block;
+  padding: 0.5em 1em;
+  font-size: 1rem;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  background-color: #fff;
+  color: #000;
+  border-radius: 4px;
+  border: none;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s ease;
+  width: 100%;
+}
+
+.my-button:hover {
+  background-color: #000;
+  color: #fff;
+}
+
+.bobo{
+  height: auto;
+  width: 100%;
+}

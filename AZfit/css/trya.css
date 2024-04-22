@@ -1,0 +1,39 @@
+
+.footer {
+    padding-top: 30px;
+    background-color: #000;
+    display: flex;
+    justify-content: space-around;
+    padding: 2em;
+  }
+
+.cat ul li{
+    list-style: none;
+    color: #aaa;
+    font-size: 15px;
+    margin: 8px 5px 8px 8px;
+    padding-left: 16px;
+    border-left: 1px solid #ffffff00;
+    border-right: 1px solid #ffffff00;
+    transition: 0.3s;
+}
+.cat ul li:hover{
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    transition: 0.8s;
+}
+.contact  ul li{
+    list-style: none;
+    color: #aaa;
+    font-size: 15px;
+    margin: 8px 5px 8px 8px;
+}
+.icons i{
+    color: #aaa;
+    margin: 2px 10px 15px 10px;
+    cursor: pointer;
+}
+.icons i:hover{
+    color: #fff;
+    transform: scale(1.2);
+}
